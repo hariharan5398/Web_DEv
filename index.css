@@ -1,0 +1,9 @@
+#selfinfo{
+
+    border-style: solid;
+    width : min-content;
+    padding: 50px;
+    margin: 100px;
+    display:inline;
+
+}
